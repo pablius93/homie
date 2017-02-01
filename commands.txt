@@ -1,0 +1,2 @@
+enviarfoto - Captura y envía una foto
+enviarvideo - Captura y envía un vídeo
